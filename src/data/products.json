@@ -1,0 +1,31 @@
+{
+"products": [
+    {
+    "id": 1,
+    "name": "с фуа-гра",
+    "description": "Печень утки разварная с артишоками.",
+    "disabled": false,
+    "weight": 0.5,
+    "servings":20,
+    "giftCount":2      
+    },
+    {
+    "id": 2,
+    "name": "с рыбой",
+    "description": "Головы щучьи с чесноком да свежайшая сёмгушка.",
+    "disabled": false,
+    "weight": 3,
+    "servings":30,
+    "giftCount":3
+    },
+    {
+    "id": 3,
+    "name": "с курой",
+    "description": "Филе из цыплят с трюфелями в бульоне.",
+    "disabled": true,
+    "weight": 4,
+    "servings":40,
+    "giftCount":4
+    }
+]
+}
